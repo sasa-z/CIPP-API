@@ -3,7 +3,7 @@ function Invoke-ExecSetSharePointMember {
     .FUNCTIONALITY
         Entrypoint
     .ROLE
-        Sharepoint.Site.ReadWrite
+        
     #>
     [CmdletBinding()]
     param($Request, $TriggerMetadata)

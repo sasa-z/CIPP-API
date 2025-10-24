@@ -3,7 +3,7 @@ Function Invoke-ListSites {
     .FUNCTIONALITY
         Entrypoint
     .ROLE
-        Sharepoint.Site.Read
+
     #>
     [CmdletBinding()]
     param($Request, $TriggerMetadata)

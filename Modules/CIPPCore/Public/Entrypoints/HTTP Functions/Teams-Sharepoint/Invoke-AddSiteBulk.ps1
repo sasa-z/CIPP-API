@@ -3,7 +3,7 @@ Function Invoke-AddSiteBulk {
     .FUNCTIONALITY
         Entrypoint
     .ROLE
-        Sharepoint.Site.ReadWrite
+        
     #>
     [CmdletBinding()]
     param($Request, $TriggerMetadata)

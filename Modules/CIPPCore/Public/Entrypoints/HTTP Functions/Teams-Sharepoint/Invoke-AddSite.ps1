@@ -3,7 +3,6 @@ function Invoke-AddSite {
     .FUNCTIONALITY
         Entrypoint
     .ROLE
-        Sharepoint.Site.ReadWrite
     #>
     [CmdletBinding()]
     param($Request, $TriggerMetadata)

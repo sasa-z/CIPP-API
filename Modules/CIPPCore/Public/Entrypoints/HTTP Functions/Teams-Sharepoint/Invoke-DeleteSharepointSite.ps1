@@ -3,7 +3,7 @@ function Invoke-DeleteSharepointSite {
     .FUNCTIONALITY
      Entrypoint
     .ROLE
-     Sharepoint.Site.ReadWrite
+     
      #>
     [CmdletBinding()]
     param($Request, $TriggerMetadata)
